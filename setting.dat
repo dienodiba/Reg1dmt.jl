@@ -1,0 +1,7 @@
+Inversion Setting for InvMT1D.jl
+40		number of layer
+5		thickness
+100		starting resistivity
+1000	regularization parameter
+1		hessian damping
+40		maximum iteration
