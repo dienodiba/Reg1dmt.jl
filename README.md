@@ -1,2 +1,2 @@
 # 1DMTI
-One-dimensional regularized magnetotelluric inversion
+One-Dimensional Magnetotelluric Inversion
