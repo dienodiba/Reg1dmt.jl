@@ -1,2 +1,2 @@
-# 1DMTI
-One-Dimensional Magnetotelluric Inversion
+# REGIMT
+1-D Regularized Inversion of Magnetotelluric Data
