@@ -1,0 +1,13 @@
+name = "REG1DMT"
+uuid = "18868e41-8ff6-40da-b6bb-8f92e709e4d6"
+authors = ["Dieno Diba"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.6.7"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
