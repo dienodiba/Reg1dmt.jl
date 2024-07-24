@@ -1,4 +1,4 @@
-#!/bin.csh
+#!/bin/csh
 
 set julia = /home/julia/julia-1.7.3/bin/julia
 set prg = /home/REG1DMT/src/main.jl
