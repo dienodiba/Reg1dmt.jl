@@ -1,2 +1,2 @@
-# REG1DMT
-1-D Regularized Inversion of Magnetotelluric Data
+# REG1DMT.jl
+A julia module for one-dimensional regularized inversion of magnetotelluric (MT) data
