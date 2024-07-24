@@ -19,7 +19,7 @@ function main()
     
 end
 
-include("Inv1DMT")
-include("Fwd1DMT")
+include("Inv1DMT.jl")
+include("Fwd1DMT.jl")
 
 main()
