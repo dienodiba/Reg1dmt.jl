@@ -1,6 +1,6 @@
 # Dieno Diba 2022
-# Regularized 1D magnetotelluric inversion
-# Gauss-Newton minimization, Laplacian roughening matrix
+# REG1DMT
+# Inversion
 
 # Number of layer and thickness of layer are fixed
 # The inversion only optimizes the resistivity of each layer 
