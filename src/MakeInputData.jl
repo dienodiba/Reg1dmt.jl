@@ -1,5 +1,5 @@
 # Dieno Diba 2022
-# Make synthetic data for an input of 1D MT inversion (InvMT1DGN.jl)
+# Make synthetic data for an input of 1D MT inversion (REG1DMT.jl)
 
 # ============ INPUT FROM USER ============
 # Resistivity (Ohm.m)
