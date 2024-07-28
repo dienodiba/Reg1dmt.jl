@@ -1,4 +1,4 @@
-Inversion Setting for InvMT1D.jl
+Inversion Setting for Reg1dmt.jl
 40    # number of layer
 5		  # thickness (m)
 100		# starting resistivity (Ohm.m)
